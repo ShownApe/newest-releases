@@ -29,7 +29,6 @@ for i,v in pairs(backpack:GetChildren()) do
 	end
 end
 tool.Parent = backpack
-tool.Handle.Massless = true
 
 attachtool.Parent = character
 attachtool.Parent = tool
